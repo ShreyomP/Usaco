@@ -123,29 +123,6 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="alibi.cpp" />
-    <ClCompile Include="alttracing2.cpp" />
-    <ClCompile Include="bact.cpp" />
-    <ClCompile Include="bowgensilv.cpp" />
-    <ClCompile Include="cowcrossroad3.cpp" />
-    <ClCompile Include="cowntact.cpp" />
-    <ClCompile Include="cownvention.cpp" />
-    <ClCompile Include="crosscountskiing.cpp" />
-    <ClCompile Include="drought.cpp" />
-    <ClCompile Include="findcow.cpp" />
-    <ClCompile Include="fruit.cpp" />
-    <ClCompile Include="horseshoe.cpp" />
-    <ClCompile Include="lights.cpp" />
-    <ClCompile Include="milkorder.cpp" />
-    <ClCompile Include="milksched.cpp" />
-    <ClCompile Include="odometer.cpp" />
-    <ClCompile Include="printing.cpp" />
-    <ClCompile Include="reveg.cpp" />
-    <ClCompile Include="rotate.cpp" />
-    <ClCompile Include="socdis.cpp" />
-    <ClCompile Include="spaceout.cpp" />
-    <ClCompile Include="visit.cpp" />
-    <ClCompile Include="walkalonfence.cpp" />
     <ClCompile Include="wormhole.cpp" />
   </ItemGroup>
   <ItemGroup>
